@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-learning coding like snake snake fish fish chess.com elo 1200
+learning coding like snake snake fish fish 
+chess.com elo 1200 
+watch anime 1000+
+peak rank diamond on Duolingo Nihongo
 
 * 🌍  I'm based in Nakhon Si Thammarat , Thailand
 * ✉️  You can contact me at [nfocus.2549@gmail.com](mailto:nfocus.2549@gmail.com)
