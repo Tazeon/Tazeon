@@ -8,7 +8,7 @@ learning coding like snake snake fish fish chess.com elo 1200
 
 * 🌍  I'm based in Nakhon Si Thammarat , Thailand
 * ✉️  You can contact me at [nfocus.2549@gmail.com](mailto:nfocus.2549@gmail.com)
-* ⚡  <a href="https://leetcode.com/u/Gusgoodman/" target="_blank" rel="Leetcode">
+* ⚡  <a href="https://leetcode.com/u/Gusgoodman/" target="_blank" rel="Leetcode">Leetcode</a>
 
 ### Skills
 
