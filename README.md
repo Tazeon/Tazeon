@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-learning coding like snake snake fish fish chess.com elo 1200
+learncoding like snake snake fish fish 
 
 * 🌍  I'm based in Nakhon Si Thammarat , Thailand
 * ✉️   [nfocus.2549@gmail.com](mailto:nfocus.2549@gmail.com)
