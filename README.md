@@ -25,6 +25,6 @@ Hi, I'm Focus (Gus). I studied Computer Science at Chulalongkorn University and 
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>🏆 My GitHub Stats</b>
 
 <a href="http://www.github.com/Tazeon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tazeon&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
