@@ -4,7 +4,7 @@ Hiyo![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Computer Science Student
 ------------------------
 
-Hi, I'm Focus (Gus). I studied Computer Science at Chulalongkorn University and graduated from Benjamarachutit School. I'm interested in tech, game, and anime stuff (High-quality Otaku).
+Hi, I'm Focus (Gus). I studied Computer Science at Chulalongkorn University and graduated from Benjamarachutit School. I'm interested in tech, game, and anime stuff (Good Otaku).
 
 * 🌍  I'm based in Thailand , Nakhon Si Thammarat
 * ✉️  You can contact me at [nfocus.2549@gmail.com](mailto:nfocus.2549@gmail.com)
@@ -22,7 +22,10 @@ Hi, I'm Focus (Gus). I studied Computer Science at Chulalongkorn University and 
 ### Socials
 
 <div align="left">
-<a href="https://www.youtube.com/@lingoodman" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a><a href="https://www.instagram.com/gusgoodsman/#" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a><a href="https://discord.com/users/gusgoodmansamadayo" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a><a href="https://www.linkedin.com/in/korawit-kaewkong-b5a880308/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a><a href="https://www.facebook.com/focus.focus.1466/" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a></div>
+<!-- <!<a href="https://www.youtube.com/@lingoodman" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> -->
+</a><a href="https://www.instagram.com/gusgoodsman/#" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a><a href="https://discord.com/users/gusgoodmansamadayo" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+<!-- </a><a href="https://www.linkedin.com/in/korawit-kaewkong-b5a880308/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> -->
+</a><a href="https://www.facebook.com/focus.focus.1466/" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a></div>
 
 ### Badges
 
