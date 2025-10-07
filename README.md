@@ -7,9 +7,7 @@ Computer Science Student
 Hi, I'm Focus (Gus). I studied Computer Science at Chulalongkorn University and graduated from Benjamarachutit School. I'm interested in tech, game, and anime stuff (Good Otaku).
 
 * 🌍  I'm based in Thailand , Nakhon Si Thammarat
-* ✉️  You can contact me at [nfocus.2549@gmail.com](mailto:nfocus.2549@gmail.com)
-* ⚡  Yeah bro this is <a href="https://leetcode.com/u/Gusgoodman/" target="_blank">my Leetcode</a>
-
+* ✉️  You can contact me at [guskorawitfw@gmail.com](mailto:guskorawitfw@gmail.com)
 ### Skills
 
 
