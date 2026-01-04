@@ -25,11 +25,4 @@ Hi, I'm Focus (Gus). I studied Computer Science at Chulalongkorn University and 
 <!-- </a><a href="https://www.linkedin.com/in/korawit-kaewkong-b5a880308/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> -->
 </a><a href="https://www.facebook.com/focus.focus.1466/" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a></div>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Tazeon"><img src="https://github-readme-stats.vercel.app/api?username=Tazeon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Tazeon's GitHub stats" /></a>
-
-
 
