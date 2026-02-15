@@ -20,6 +20,6 @@ Hi, I'm Gus. I studied Computer Science at Chulalongkorn University and graduate
 
 ###
 
-<img align="right" height="160" src="[https://media1.tenor.com/m/TN46iqZIGnYAAAAC/kuru-kuru.gif](https://media1.tenor.com/m/I0IYOKVklREAAAAC/bocchi-the-rock-bocchi-the-rock-gif.gif)" />
+<img align="right" height="160" src="https://media1.tenor.com/m/I0IYOKVklREAAAAC/bocchi-the-rock-bocchi-the-rock-gif.gif" />
 
 ###
