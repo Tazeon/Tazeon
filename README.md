@@ -4,7 +4,7 @@ Hiyo![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Computer Science Student
 ------------------------
 
-Hi, I'm Focus (Gus). I studied Computer Science at Chulalongkorn University and graduated from Benjamarachutit School. I'm interested in tech, game, and anime stuff (Good Otaku).
+Hi, I'm Focus (Gus). I studied Computer Science at Chulalongkorn University and graduated from Benjamarachutit School. I'm interested in tech, game, and anime stuff (Weeb).
 
 * 🌍  I'm based in Thailand , Nakhon Si Thammarat
 * ✉️  You can contact me at [guskorawitfw@gmail.com](mailto:guskorawitfw@gmail.com)
