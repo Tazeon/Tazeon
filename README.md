@@ -8,6 +8,9 @@ Hi, I'm Gus. I studied Computer Science at Chulalongkorn University and graduate
 
 * 🌍  I'm based in Thailand , Nakhon Si Thammarat
 * ✉️  You can contact me at [guskorawitfw@gmail.com](mailto:guskorawitfw@gmail.com)
+
+------------------------
+*🥈 Silver Medal Super AI Engineer Season 5 by AIAT (Track 2 : AI Engineer | Kiddee House)
   
 ## Tech Stack
 
